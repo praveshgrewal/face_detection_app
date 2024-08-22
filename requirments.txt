@@ -1,0 +1,7 @@
+numpy
+opencv-python
+pillow
+ipykernel
+opencv-contrib-python
+tk
+mysql-connector
